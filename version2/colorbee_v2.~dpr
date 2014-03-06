@@ -1,0 +1,14 @@
+program colorbee_v2;
+
+uses
+  Forms,
+  colorbee_2 in 'colorbee_2.pas' {Form1};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.Title := 'Color Bee V.2';
+  Application.CreateForm(TForm1, Form1);
+  Application.Run;
+end.

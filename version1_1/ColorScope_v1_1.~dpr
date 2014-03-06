@@ -1,0 +1,20 @@
+program ColorScope_v1_1;
+
+uses
+  Forms,
+  beta2 in '..\version1\beta2.pas' {Form1},
+  filesaveas in '..\add2\fix1\filesaveas.pas' {Form2},
+  filerename in '..\version1\filerename.pas' {Form3},
+  filesave in '..\version1\filesave.pas' {Form4},
+  zoom_color in '..\version1\zoom_color.pas' {grab_color},
+  hinthelp in '..\version1\hinthelp.pas' {Form5},
+  aboutbee in '..\version1\aboutbee.pas' {Form6};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.Title := 'Color Bee V1.0';
+  Application.CreateForm(TForm1, Form1);
+  Application.Run;
+end.

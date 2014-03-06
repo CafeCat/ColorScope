@@ -1,0 +1,123 @@
+<?xml version="1.0" ?>
+<XML_DIZ_INFO>
+	<MASTER_PAD_VERSION_INFO>
+		<MASTER_PAD_VERSION>2.02</MASTER_PAD_VERSION>
+		<MASTER_PAD_EDITOR>PADGen 2.0.2.30 http://www.padgen.org</MASTER_PAD_EDITOR>
+		<MASTER_PAD_INFO>Portable Application Description, or PAD for short, is a data set that is used by shareware authors to disseminate information to anyone interested in their software products. To find out more go to http://www.asp-shareware.org/pad</MASTER_PAD_INFO>
+	</MASTER_PAD_VERSION_INFO>
+	<Company_Info>
+		<Company_Name>izlenim</Company_Name>
+		<Address_1 />
+		<Address_2 />
+		<City_Town>Istanbul</City_Town>
+		<State_Province />
+		<Zip_Postal_Code />
+		<Country>Turkey</Country>
+		<Company_WebSite_URL>http://www.izlenim.com</Company_WebSite_URL>
+		<Contact_Info>
+			<Author_First_Name>Leonore</Author_First_Name>
+			<Author_Last_Name>Yardimli</Author_Last_Name>
+			<Author_Email>leonore1982@gmail.com</Author_Email>
+			<Contact_First_Name>Leonore</Contact_First_Name>
+			<Contact_Last_Name>Yardimli</Contact_Last_Name>
+			<Contact_Email>software@izlenim.com</Contact_Email>
+		</Contact_Info>
+		<Support_Info>
+			<Sales_Email>software@izlenim.com</Sales_Email>
+			<Support_Email>software@izlenim.com</Support_Email>
+			<General_Email>software@izlenim.com</General_Email>
+			<Sales_Phone />
+			<Support_Phone />
+			<General_Phone />
+			<Fax_Phone />
+		</Support_Info>
+	</Company_Info>
+	<Program_Info>
+		<Program_Name>Color Bee</Program_Name>
+		<Program_Version>1.0</Program_Version>
+		<Program_Release_Month>07</Program_Release_Month>
+		<Program_Release_Day>21</Program_Release_Day>
+		<Program_Release_Year>2006</Program_Release_Year>
+		<Program_Cost_Dollars>20</Program_Cost_Dollars>
+		<Program_Cost_Other_Code />
+		<Program_Cost_Other />
+		<Program_Type>Shareware</Program_Type>
+		<Program_Release_Status>New Release</Program_Release_Status>
+		<Program_Install_Support>Install and Uninstall</Program_Install_Support>
+		<Program_OS_Support>Windows2000,WinXP,Windows2003</Program_OS_Support>
+		<Program_Language>English</Program_Language>
+		<Program_Change_Info />
+		<Program_Specific_Category>Graphics</Program_Specific_Category>
+		<Program_Category_Class>Graphic Apps::Other</Program_Category_Class>
+		<Program_System_Requirements />
+		<File_Info>
+			<File_Size_Bytes>2717696</File_Size_Bytes>
+			<File_Size_K>2654</File_Size_K>
+			<File_Size_MB>2.59</File_Size_MB>
+		</File_Info>
+		<Expire_Info>
+			<Has_Expire_Info>N</Has_Expire_Info>
+			<Expire_Count />
+			<Expire_Based_On>Days</Expire_Based_On>
+			<Expire_Other_Info />
+			<Expire_Month />
+			<Expire_Day />
+			<Expire_Year />
+		</Expire_Info>
+	</Program_Info>
+	<Program_Descriptions>
+		<English>
+			<Keywords>Color palette, sample color on the screen</Keywords>
+			<Char_Desc_45>Make your own palettes.</Char_Desc_45>
+			<Char_Desc_80> Make your own color palettes, sample and store colors you like.</Char_Desc_80>
+			<Char_Desc_250>A tool for designers, web developers. Make your own color palettes. Sample colors from the screen, color model, and test colors before you use it. It is a tool for both designer and web developer.</Char_Desc_250>
+			<Char_Desc_450>A tool for make color palettes. With Color Bee, you can collect and store colors you like for your projects. Color Bee provides you different ways of collecting colors, such as sampling a color from a color model, on the screen or palette libraries. It also offers you some simple methods to test colors you sample before using them.</Char_Desc_450>
+			<Char_Desc_2000>With Color Bee, you can collect and store colors you like for your projects. Color Bee provides you different ways of collecting colors, such as sampling a color from a color model or on the screen. Before you get colors you sampled into usage, Color Bee also offers you several methods to test them by writing texts, simple drawing or pattern styles etc.. You can also export your palette to a bmp Image file, and sample colros from it in any painting program you use.
+Color Bee wish to inspire you, help you make the colors not just delight but personification.</Char_Desc_2000>
+		</English>
+	</Program_Descriptions>
+	<Web_Info>
+		<Application_URLs>
+			<Application_Info_URL>http://www.izlenim.com/sh_products.asp?ptID=4</Application_Info_URL>
+			<Application_Order_URL>http://www.izlenim.com/sh_order.asp</Application_Order_URL>
+			<Application_Screenshot_URL>http://eloo.izlenim.com/program_box/colorbeeS1.jpg</Application_Screenshot_URL>
+			<Application_Icon_URL>http://eloo.izlenim.com/program_box/colorbee/colorbee_ico.gif</Application_Icon_URL>
+			<Application_XML_File_URL>http://eloo.izlenim.com/program_box/colorbee/colorbee_v1_pad.xml</Application_XML_File_URL>
+		</Application_URLs>
+		<Download_URLs>
+			<Primary_Download_URL>http://eloo.izlenim.com/program_box/colorbee/ColorBeeInstall_v1_ung.exe</Primary_Download_URL>
+			<Secondary_Download_URL />
+			<Additional_Download_URL_1 />
+			<Additional_Download_URL_2 />
+		</Download_URLs>
+	</Web_Info>
+	<Permissions>
+		<Distribution_Permissions>You may copy the shareware(unregistered) version of this software and documentation as you wish, and give exact copies of the original shareware(unregistered) version to anyone, and distribute the shareware(unregistered) version of the software and documentation in its unmodified form via electronic means. But you should not charge or requesting donations for any such copies however made and from distributing the software and/or documentation with other products without the author's written permission.</Distribution_Permissions>
+		<EULA>Color Bee Version 1.0 License Agreement
+
+
+Please read the following terms and conditions carefully before using this software. Use of this software indicates you accept the terms of this license agreement and warranty.
+====================================
+
+-------------------------------------
+1. Disclaimer of Warranty
+
+ColorBee is provided "as-is" and without warranty of any kind, express, implied or otherwise, including without limitation, any warranty of merchantability or fitness for a particular purpose. 
+
+In no event shall the author of this software be held liable for data loss, damages, loss of profits or any other kind of loss while using or misusing this software.
+
+----------------
+2. License
+
+- Shareware version(unregistered) -
+In these cases, you are granted the right to use and to make an unlimited number of copies of this software without author's written permission. However the software can not be resell, charged, or request donations.
+
+- Restrictions on Use - 
+
+This software must not be decompiled, disassembled, reverse engineered or otherwise modified. 
+
+
+Copyright (C) 2004 - 2006 izlenim software. All rights reserved.
+</EULA>
+	</Permissions>
+</XML_DIZ_INFO>

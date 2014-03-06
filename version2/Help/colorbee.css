@@ -1,0 +1,31 @@
+body{
+     margin : 5px;
+	 
+					scrollbar-face-color: #7E9AC4;
+					scrollbar-highlight-color: #ADC4E6;
+					scrollbar-shadow-color: #5C79A5;
+					scrollbar-3dlight-color: #637390;
+					scrollbar-arrow-color:  #F5C020;
+					scrollbar-track-color: #EDF1F7;
+		font-family: Verdana;
+		font-size: 12px;
+				
+	 }
+table{
+		font-family: Verdana;
+		font-size: 12px;
+	}
+.sayTitle
+	{
+		font-size: 12pt;
+		font-weight : bold;
+		color:#AB5A1B; 
+	}
+.sayItem
+	{
+		font-size: 8pt;
+		font-weight : bold;
+		color:#787C87;
+	}
+
+	
